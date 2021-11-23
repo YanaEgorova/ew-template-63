@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Italiana';
+    src: url('../fonts/Italiana-Regular.eot');
+    src: url('../fonts/Italiana-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Italiana-Regular.woff2') format('woff2'),
+        url('../fonts/Italiana-Regular.woff') format('woff'),
+        url('../fonts/Italiana-Regular.ttf') format('truetype'),
+        url('../fonts/Italiana-Regular.svg#Italiana-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Bold';
+    src: url('../fonts/RobotoSlab-Bold.eot');
+    src: url('../fonts/RobotoSlab-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoSlab-Bold.woff2') format('woff2'),
+        url('../fonts/RobotoSlab-Bold.woff') format('woff'),
+        url('../fonts/RobotoSlab-Bold.ttf') format('truetype'),
+        url('../fonts/RobotoSlab-Bold.svg#RobotoSlab-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-ExtraLight.eot');
+    src: url('../fonts/RobotoSlab-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoSlab-ExtraLight.woff2') format('woff2'),
+        url('../fonts/RobotoSlab-ExtraLight.woff') format('woff'),
+        url('../fonts/RobotoSlab-ExtraLight.ttf') format('truetype'),
+        url('../fonts/RobotoSlab-ExtraLight.svg#RobotoSlab-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+
+
+
