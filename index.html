@@ -109,7 +109,7 @@
       </div>
 
 
-      <div class="products__wrapper">
+      <div class="products__wrapper hero-products">
         <section class="products">
           <div class="container">
             <div class="sub-title__box">
@@ -218,6 +218,7 @@
     const menuBtnTextSecond = menuBtn.dataset.id;
     menuBtn.addEventListener('click', () => {
       menu.classList.toggle('open-menu');
+      document.body.classList.toggle('open-menu');
       if(menuBtn.dataset.id) {
         menuBtn.textContent = menuBtn.dataset.id;
         menuBtn.removeAttribute('data-id');

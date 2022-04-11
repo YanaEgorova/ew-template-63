@@ -203,6 +203,7 @@
     const menuBtnTextSecond = menuBtn.dataset.id;
     menuBtn.addEventListener('click', () => {
       menu.classList.toggle('open-menu');
+      document.body.classList.toggle('open-menu');
       if(menuBtn.dataset.id) {
         menuBtn.textContent = menuBtn.dataset.id;
         menuBtn.removeAttribute('data-id');

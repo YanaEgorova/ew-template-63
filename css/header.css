@@ -6,6 +6,9 @@
     padding: 2rem 1rem;
     text-align: center;
 }
+body.open-menu {
+    overflow: hidden;
+}
 .header__top {
     display: flex;
     align-items: center;
